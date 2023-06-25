@@ -15,3 +15,6 @@ The "Spot It!" game has size 8. Then, the generalized version of this game is a 
 
 The construction of the generalized game itself is based on MOLS (Mutually Ortogonaly Latin Squares). For more details about the algorithm visit
 the following link (in spanish) [spot-it-algorithm.pdf](https://drive.google.com/file/d/1lLgsY1YRSCE6HEFj3S6ignSKjrBF2oHH/view?usp=sharing)
+
+# Usage
+python3 main.py 
