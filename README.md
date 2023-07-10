@@ -17,4 +17,6 @@ The construction of the generalized game itself is based on MOLS (Mutually Ortog
 the following link (in spanish) [spot-it-algorithm.pdf](https://drive.google.com/file/d/1lLgsY1YRSCE6HEFj3S6ignSKjrBF2oHH/view?usp=sharing)
 
 # Usage
-python3 main.py 
+```bash
+python3 main.py
+```
