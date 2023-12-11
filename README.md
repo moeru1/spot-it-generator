@@ -14,7 +14,7 @@ This program generates a generalized version of this game, generealized as follo
 The "Spot It!" game has size 8. Then, the generalized version of this game is a deck with cards of _n_ symbols.
 
 The construction of the generalized game itself is based on MOLS (Mutually Ortogonaly Latin Squares). For more details about the algorithm visit
-the following link (in spanish) [spot-it-algorithm.pdf](https://drive.google.com/file/d/1lLgsY1YRSCE6HEFj3S6ignSKjrBF2oHH/view?usp=sharing)
+the following link (in spanish) [spot-it-algorithm.pdf](./spot-it-algorithm.pdf)
 
 # Usage
 ```bash
